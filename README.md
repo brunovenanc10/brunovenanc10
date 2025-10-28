@@ -33,7 +33,7 @@
 
 ---
 
-### ✨ “A tecnologia move o mundo, mas é a curiosidade que move o programador.”  
+### 💭 “A tecnologia move o mundo, mas é a curiosidade que move o programador.”  
 
 
 
