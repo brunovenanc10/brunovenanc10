@@ -19,11 +19,7 @@
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
 </a>
 </a>
-&nbsp;&nbsp;
 
-<a>
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/> brunovenancio2007@gmail.com
-</a>
   
 ---
 
