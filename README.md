@@ -37,6 +37,24 @@
 </p>
 
 ---
+### 📊 Atividade no GitHub
+
+<p align="center">
+  <a href="https://github.com/brunovenanc10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunovenanc10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunovenanc10&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/brunovenanc10">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunovenanc10&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
+</p>
+
+---
+
+
 
 ### 💭 “A tecnologia move o mundo, mas é a curiosidade que move o programador.”  
 
