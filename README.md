@@ -18,6 +18,11 @@
 <a href="https://www.instagram.com/bruno.venancio._/" target="_blank">
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
 </a>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:brunovenancio2007@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+</a>
 
 ---
 
