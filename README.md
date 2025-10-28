@@ -20,10 +20,11 @@
 </a>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:brunovenancio2007@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
-</a>
 
+<a>
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/> brunovenancio2007@gmail.com
+</a>
+  
 ---
 
 ### 💻 Tecnologias que estou estudando
