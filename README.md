@@ -15,7 +15,7 @@
 
 ### 🌐 Conecte-se comigo  
 
-<a href="https://www.instagram.com/bruno.venancio._/" target="_blank">
+<a >
   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
 </a>
 </a>
